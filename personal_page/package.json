@@ -1,6 +1,6 @@
 {
-  "name": "tutorial-stuff",
-  "homepage": "https://lukebridges123.github.io/react-test-stuff",
+  "name": "personal_page",
+  "homepage": "https://lukebridges123.github.io/personal_page",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
